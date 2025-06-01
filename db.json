@@ -1,0 +1,335 @@
+{
+  "favorites": [
+    {
+      "id": "5fcc",
+      "pokemonId": 6,
+      "pokemonName": "charizard",
+      "addedAt": "2025-06-01T08:22:30.417Z"
+    },
+    {
+      "id": "d1f9",
+      "pokemonId": 9,
+      "pokemonName": "blastoise",
+      "addedAt": "2025-06-01T08:22:33.349Z"
+    },
+    {
+      "id": "222f",
+      "pokemonId": 3,
+      "pokemonName": "venusaur",
+      "addedAt": "2025-06-01T08:22:35.742Z"
+    },
+    {
+      "id": "702c",
+      "pokemonId": 149,
+      "pokemonName": "dragonite",
+      "addedAt": "2025-06-01T08:24:23.429Z"
+    },
+    {
+      "id": "bef5",
+      "pokemonId": 146,
+      "pokemonName": "moltres",
+      "addedAt": "2025-06-01T08:24:24.833Z"
+    },
+    {
+      "id": "2fa4",
+      "pokemonId": 145,
+      "pokemonName": "zapdos",
+      "addedAt": "2025-06-01T08:24:25.870Z"
+    },
+    {
+      "id": "f4a0",
+      "pokemonId": 144,
+      "pokemonName": "articuno",
+      "addedAt": "2025-06-01T08:24:26.974Z"
+    },
+    {
+      "id": "a651",
+      "pokemonId": 150,
+      "pokemonName": "mewtwo",
+      "addedAt": "2025-06-01T08:24:29.384Z"
+    },
+    {
+      "id": "c4a8",
+      "pokemonId": 157,
+      "pokemonName": "typhlosion",
+      "addedAt": "2025-06-01T08:24:31.182Z"
+    },
+    {
+      "id": "203c",
+      "pokemonId": 160,
+      "pokemonName": "feraligatr",
+      "addedAt": "2025-06-01T08:24:35.981Z"
+    },
+    {
+      "id": "7530",
+      "pokemonId": 34,
+      "pokemonName": "nidoking",
+      "addedAt": "2025-06-01T08:24:45.145Z"
+    },
+    {
+      "id": "7208",
+      "pokemonId": 181,
+      "pokemonName": "ampharos",
+      "addedAt": "2025-06-01T08:25:00.262Z"
+    },
+    {
+      "id": "5fa9",
+      "pokemonId": 197,
+      "pokemonName": "umbreon",
+      "addedAt": "2025-06-01T08:25:14.156Z"
+    },
+    {
+      "id": "5048",
+      "pokemonId": 212,
+      "pokemonName": "scizor",
+      "addedAt": "2025-06-01T08:25:19.127Z"
+    },
+    {
+      "id": "9ac8",
+      "pokemonId": 248,
+      "pokemonName": "tyranitar",
+      "addedAt": "2025-06-01T08:25:27.069Z"
+    },
+    {
+      "id": "8bd4",
+      "pokemonId": 245,
+      "pokemonName": "suicune",
+      "addedAt": "2025-06-01T08:25:28.480Z"
+    },
+    {
+      "id": "2c0d",
+      "pokemonId": 243,
+      "pokemonName": "raikou",
+      "addedAt": "2025-06-01T08:25:29.471Z"
+    },
+    {
+      "id": "0c39",
+      "pokemonId": 244,
+      "pokemonName": "entei",
+      "addedAt": "2025-06-01T08:25:30.384Z"
+    },
+    {
+      "id": "5869",
+      "pokemonId": 254,
+      "pokemonName": "sceptile",
+      "addedAt": "2025-06-01T08:25:33.180Z"
+    },
+    {
+      "id": "a280",
+      "pokemonId": 257,
+      "pokemonName": "blaziken",
+      "addedAt": "2025-06-01T08:25:35.150Z"
+    },
+    {
+      "id": "5c86",
+      "pokemonId": 260,
+      "pokemonName": "swampert",
+      "addedAt": "2025-06-01T08:25:36.496Z"
+    },
+    {
+      "id": "413f",
+      "pokemonId": 282,
+      "pokemonName": "gardevoir",
+      "addedAt": "2025-06-01T08:25:41.829Z"
+    },
+    {
+      "id": "0514",
+      "pokemonId": 306,
+      "pokemonName": "aggron",
+      "addedAt": "2025-06-01T08:25:47.634Z"
+    },
+    {
+      "id": "ae85",
+      "pokemonId": 330,
+      "pokemonName": "flygon",
+      "addedAt": "2025-06-01T08:25:53.192Z"
+    },
+    {
+      "id": "1206",
+      "pokemonId": 338,
+      "pokemonName": "solrock",
+      "addedAt": "2025-06-01T08:25:56.580Z"
+    },
+    {
+      "id": "b44c",
+      "pokemonId": 376,
+      "pokemonName": "metagross",
+      "addedAt": "2025-06-01T08:26:06.406Z"
+    },
+    {
+      "id": "47dc",
+      "pokemonId": 377,
+      "pokemonName": "regirock",
+      "addedAt": "2025-06-01T08:26:08.270Z"
+    },
+    {
+      "id": "a61b",
+      "pokemonId": 373,
+      "pokemonName": "salamence",
+      "addedAt": "2025-06-01T08:26:09.777Z"
+    },
+    {
+      "id": "cddf",
+      "pokemonId": 378,
+      "pokemonName": "regice",
+      "addedAt": "2025-06-01T08:26:10.908Z"
+    },
+    {
+      "id": "4716",
+      "pokemonId": 379,
+      "pokemonName": "registeel",
+      "addedAt": "2025-06-01T08:26:14.318Z"
+    },
+    {
+      "id": "7179",
+      "pokemonId": 380,
+      "pokemonName": "latias",
+      "addedAt": "2025-06-01T08:26:15.409Z"
+    },
+    {
+      "id": "3d24",
+      "pokemonId": 381,
+      "pokemonName": "latios",
+      "addedAt": "2025-06-01T08:26:17.270Z"
+    },
+    {
+      "id": "c599",
+      "pokemonId": 382,
+      "pokemonName": "kyogre",
+      "addedAt": "2025-06-01T08:26:18.265Z"
+    },
+    {
+      "id": "8838",
+      "pokemonId": 383,
+      "pokemonName": "groudon",
+      "addedAt": "2025-06-01T08:26:19.307Z"
+    },
+    {
+      "id": "19e0",
+      "pokemonId": 384,
+      "pokemonName": "rayquaza",
+      "addedAt": "2025-06-01T08:26:20.228Z"
+    },
+    {
+      "id": "87c3",
+      "pokemonId": 386,
+      "pokemonName": "deoxys-normal",
+      "addedAt": "2025-06-01T08:26:22.455Z"
+    },
+    {
+      "id": "d42d",
+      "pokemonId": 392,
+      "pokemonName": "infernape",
+      "addedAt": "2025-06-01T08:26:24.772Z"
+    },
+    {
+      "id": "7d0f",
+      "pokemonId": 395,
+      "pokemonName": "empoleon",
+      "addedAt": "2025-06-01T08:26:26.715Z"
+    },
+    {
+      "id": "2af3",
+      "pokemonId": 407,
+      "pokemonName": "roserade",
+      "addedAt": "2025-06-01T08:26:32.772Z"
+    },
+    {
+      "id": "5f2f",
+      "pokemonId": 445,
+      "pokemonName": "garchomp",
+      "addedAt": "2025-06-01T08:29:27.405Z"
+    },
+    {
+      "id": "2a1f",
+      "pokemonId": 448,
+      "pokemonName": "lucario",
+      "addedAt": "2025-06-01T08:29:28.676Z"
+    },
+    {
+      "id": "b4c0",
+      "pokemonId": 472,
+      "pokemonName": "gliscor",
+      "addedAt": "2025-06-01T08:29:31.636Z"
+    },
+    {
+      "id": "590b",
+      "pokemonId": 477,
+      "pokemonName": "dusknoir",
+      "addedAt": "2025-06-01T08:29:37.425Z"
+    },
+    {
+      "id": "b1eb",
+      "pokemonId": 486,
+      "pokemonName": "regigigas",
+      "addedAt": "2025-06-01T08:29:40.802Z"
+    },
+    {
+      "id": "6287",
+      "pokemonId": 487,
+      "pokemonName": "giratina-altered",
+      "addedAt": "2025-06-01T08:29:42.404Z"
+    },
+    {
+      "id": "5b39",
+      "pokemonId": 491,
+      "pokemonName": "darkrai",
+      "addedAt": "2025-06-01T08:29:43.749Z"
+    },
+    {
+      "id": "a782",
+      "pokemonId": 493,
+      "pokemonName": "arceus",
+      "addedAt": "2025-06-01T08:29:46.220Z"
+    },
+    {
+      "id": "30fa",
+      "pokemonId": 687,
+      "pokemonName": "malamar",
+      "addedAt": "2025-06-01T08:29:59.674Z"
+    },
+    {
+      "id": "8862",
+      "pokemonId": 937,
+      "pokemonName": "ceruledge",
+      "addedAt": "2025-06-01T08:30:34.849Z"
+    },
+    {
+      "id": "0fcf",
+      "pokemonId": 936,
+      "pokemonName": "armarouge",
+      "addedAt": "2025-06-01T08:30:36.637Z"
+    },
+    {
+      "id": "e8b7",
+      "pokemonId": 959,
+      "pokemonName": "tinkaton",
+      "addedAt": "2025-06-01T08:30:40.676Z"
+    },
+    {
+      "id": "435d",
+      "pokemonId": 1006,
+      "pokemonName": "iron-valiant",
+      "addedAt": "2025-06-01T08:30:53.586Z"
+    },
+    {
+      "id": "9f7b",
+      "pokemonId": 10007,
+      "pokemonName": "giratina-origin",
+      "addedAt": "2025-06-01T08:31:02.965Z"
+    },
+    {
+      "id": "d1fc",
+      "pokemonId": 10062,
+      "pokemonName": "latias-mega",
+      "addedAt": "2025-06-01T08:31:24.960Z"
+    },
+    {
+      "id": "a861",
+      "pokemonId": 10171,
+      "pokemonName": "moltres-galar",
+      "addedAt": "2025-06-01T08:33:39.143Z"
+    }
+  ],
+  "notes": []
+}
