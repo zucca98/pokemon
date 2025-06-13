@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { BattlePokemon, Move, BattleAction } from '../types/battle';
 
 // Type effectiveness chart
