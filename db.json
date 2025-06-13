@@ -329,6 +329,18 @@
       "pokemonId": 10171,
       "pokemonName": "moltres-galar",
       "addedAt": "2025-06-01T08:33:39.143Z"
+    },
+    {
+      "id": "414f",
+      "pokemonId": 10034,
+      "pokemonName": "charizard-mega-x",
+      "addedAt": "2025-06-13T19:16:51.450Z"
+    },
+    {
+      "id": "3019",
+      "pokemonId": 10038,
+      "pokemonName": "gengar-mega",
+      "addedAt": "2025-06-13T19:16:53.968Z"
     }
   ],
   "notes": []
