@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useQuery } from '@tanstack/react-query';
 import { fetchPokemonById } from '../api/pokeapi';
 import { BattlePokemon, Move, MoveCategory } from '../types/battle';

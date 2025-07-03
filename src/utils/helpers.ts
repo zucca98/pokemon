@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Pokemon } from '../types/pokemon';
 
 // Format Pokemon ID to display with leading zeros (e.g., #001, #025)
